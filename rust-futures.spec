@@ -7,7 +7,7 @@
 
 Name:           rust-%{crate}
 Version:        0.3.15
-Release:        1
+Release:        2
 Summary:        Implementation of futures and streams
 
 # Upstream license specification: MIT OR Apache-2.0
