@@ -6,8 +6,8 @@
 %global crate futures
 
 Name:           rust-%{crate}
-Version:        0.3.15
-Release:        2
+Version:        0.3.33
+Release:        1
 Summary:        Implementation of futures and streams
 
 # Upstream license specification: MIT OR Apache-2.0
